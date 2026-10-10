@@ -9,7 +9,7 @@ alias cdf='cd &(find .type d | fzf)'
 alias ga='git add .'
 alias gc='git commit -m' 
 alias gs='git status'
-alias gl="git log -n 8 --pretty=format:'%C(auto)%h %C(magenta)%ad %C(reset)%s %C(cyan)[%an]' --date=short"
+alias gl="git log -n 16 --graph --pretty=format:'%C(auto)%h%d %C(magenta)%ad %C(reset)%s %C(cyan)[%an]' --date=short"
 
 alias cat='batcat'
 alias catf='cat $(fzf)'
