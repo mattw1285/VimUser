@@ -22,7 +22,7 @@ chmod +x "$SCRIPT_DIR/helper_scripts/dev.sh"
 cat << EOF >> ~/.bash_aliases
 
 ## --- 'setup.sh' --- ##
-alias dev="$SCRIPT_DIR/helper_scripts/dev.sh"
+alias code="$SCRIPT_DIR/helper_scripts/dev.sh"
 EOF
 
 echo "Setup done, we will now reload the shell!"
