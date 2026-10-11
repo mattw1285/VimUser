@@ -1,4 +1,8 @@
-# MyConfig
+# VimUser
+
+_A centralised repo of my personal config files and env setup._
+
+## Overview
 
 The `MyConfig` repo is a centralised repo for my personal config files and env 
 setup. The goal is to minimise repetitive manual steps, automate common tasks 
@@ -18,9 +22,7 @@ need or hardware for terraform, so reflashing os drives it is!
 
 ---
 
-```
-"When one gets sick, you shoot it and get another one."
-```
+> "When one gets sick, you shoot it and get another one."
 
 ---
 
@@ -33,10 +35,8 @@ need or hardware for terraform, so reflashing os drives it is!
 
 ---
 
-```
-"Your infrastructure should be a graveyard... Just like your list of nearly 
-complete project" 
-```
+> "Your infrastructure should be a graveyard... Just like your list of nearly 
+complete project"
 
 ---
 
@@ -51,10 +51,8 @@ I'll tell you about the os setup when i finish it lol! :D
 
 ---
 
-```
-"It’s not a 'production outage, it’s a 'spontaneous load-testing exercise' 
+> "It’s not a 'production outage, it’s a 'spontaneous load-testing exercise' 
 for our disaster recovery plan."
-```
 
 ---
 
@@ -70,9 +68,7 @@ for our disaster recovery plan."
 
 ---
 
-```
-"Build it, then burn it."
-```
+> "Build it, then burn it."
 
 ---
 
