@@ -38,7 +38,7 @@ This is not meant to be universal, but rather my evolving toolkit for personal p
 
 ## How To
 
-run `source VimUser/src/setup.sh`...
+Run `source VimUser/src/setup.sh`...
 
 Then maybe pray to the gods that I've looked at this recently, stopped procrastinating and learnt how to do it. 
 But `setup.sh` should work fine.
