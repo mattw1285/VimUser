@@ -4,7 +4,7 @@
 
 [core]
     pager = delta
-    editor = vim --wait
+    editor = vim
 
 [interactive]
     diffFilter = delta --color-only
